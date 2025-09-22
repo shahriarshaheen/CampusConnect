@@ -357,4 +357,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+
 **Ready to connect with your campus?** Start by creating your account and exploring all the features CampusConnectPlayHub has to offer. Your university experience is about to get a whole lot more connected! 🎓✨
