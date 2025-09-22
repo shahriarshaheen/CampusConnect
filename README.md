@@ -348,4 +348,13 @@ If you encounter issues:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 🙏 Acknowledgments
 
+- Built with ❤️ for the campus community
+- Inspired by the need for better student connection tools
+- Thanks to all the students who provided feedback and suggestions
+- Special thanks to the open-source community for the amazing tools we use
+
+---
+
+**Ready to connect with your campus?** Start by creating your account and exploring all the features CampusConnectPlayHub has to offer. Your university experience is about to get a whole lot more connected! 🎓✨
